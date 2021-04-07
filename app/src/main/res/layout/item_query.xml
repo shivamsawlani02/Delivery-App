@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/rounded_rectangle"
+    android:layout_margin="15sp"
+    android:padding="10sp"
+    android:id="@+id/linear_layout"
+    android:orientation="vertical">
+
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Date"-->
+<!--        android:id="@+id/tv_date"-->
+<!--        android:textSize="20sp"-->
+<!--        android:layout_margin="5sp"-->
+<!--        />-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name Surname"
+        android:id="@+id/tv_client_name"
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:layout_margin="5sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Description"
+        android:id="@+id/tv_query_description"
+        android:layout_margin="5sp"
+        />
+
+</LinearLayout>

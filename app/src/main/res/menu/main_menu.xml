@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:title="@string/home">
+
+        </item>
+        <item
+            android:id="@+id/query"
+            android:title="@string/notification">
+
+        </item>
+        <item
+            android:id="@+id/language"
+            android:title="@string/language">
+
+        </item>
+
+        <item
+            android:id="@+id/product_add"
+            android:title="@string/add_new_product">
+
+        </item>
+
+    </group>
+
+    <item
+        android:title="PROFILE">
+        <menu>
+            <group
+                android:checkableBehavior="single">
+                <item
+                    android:id="@+id/details"
+                    android:title="@string/details">
+
+                </item>
+
+                <item
+                    android:id="@+id/logout"
+                    android:title="@string/logout">
+
+                </item>
+
+            </group>
+
+        </menu>
+
+    </item>
+
+
+
+</menu>

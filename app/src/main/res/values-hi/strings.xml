@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DS दूधवाले</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+
+    <string name="milk_left">कुल दूध बचा</string>
+    <string name="Dairy_System">डेयरी प्रणाली</string>
+    <string name="no_order_left">आज के लिए कोई और आदेश नहीं</string>
+    <string name="start_delivery">वितरण प्रारंभ करें</string>
+    <string name="open_profile">प्रोफ़ाइल टैब खोलें</string>
+
+    <string name="phone_number">फ़ोन नंबर</string>
+    <string name="enter_phone_number">फ़ोन नंबर दर्ज करें</string>
+    <string name="continue_btn">आगे बड़े</string>
+    <string name="clients_connected">जुड़े हुए ग्राहक</string>
+    <string name="product_available">उपलब्ध उत्पाद:</string>
+    <string name="edit">संपादित करें</string>
+    <string name="save">सहेजें</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="add_new_product">नया उत्पाद जोड़ें</string>
+
+    <string name="product_name">उत्पाद का नाम</string>
+    <string name="price">कीमत</string>
+    <string name="add_product_details">उत्पाद विवरण जोड़ें</string>
+
+    <string name="delete">हटाएं</string>
+    <string name="next_client">अगला ग्राहक:</string>
+
+    <string name="milk_quality">गुणवत्ता:</string>
+    <string name="milk_quantity">मात्रा:</string>
+    <string name="cancel_order">रद्द</string>
+    <string name="delivered">पहुंचा दिया</string>
+    <string name="order_amount">राशि: ₹</string>
+
+    <string name="edit_product_details">उत्पाद विवरण संपादित करें</string>
+    <string name="fill_daily_requirement">दैनिक आवश्यकताओं को भरें:</string>
+
+    <string name="enter_all_quantities_to_proceed">प्रारंभ करने के लिए सभी मात्राएँ दर्ज करें</string>
+    <string name="no_orders_found">कोई आदेश नहीं मिला, कृपया वितरित करने के लिए आदेश दर्ज करें</string>
+    <string name="order_canceled">आदेश रद्द कर दिया गया</string>
+    <string name="order_delivered">आदेश दिया गया</string>
+    <string name="updating_please_wait">अपडेट हो रहा है ... कृपया प्रतीक्षा करें</string>
+    <string name="yes">हाँ</string>
+    <string name="no">नहीं</string>
+    <string name="are_you_sure_to_cancel_order">क्या आप इस आदेश को रद्द करना सुनिश्चित करते हैं?</string>
+    <string name="please_complete_the_order_to_proceed">कृपया आगे बढ़ने के लिए आदेश जोड़ें या पूरा करें</string>
+    <string name="order_has_been_placee">आदेश दिया गया है ...</string>
+    <string name="are_you_sure_to_delete">क्या वाकई हटाना है?</string>
+    <string name="out_of_stock">- वर्तमान में स्टॉक से बाहर है</string>
+    <string name="changes_saved">बदलाव सुरक्षित किया गया</string>
+    <string name="product_deleted">उत्पाद हटा दिया गया</string>
+
+    <string name="please_fill_all_the_details">कृपया सभी विवरण दर्ज करें!</string>
+    <string name="product_added">उत्पाद जोड़ा गया</string>
+    <string name="product_name_quality">उत्पाद का नाम / गुणवत्ता</string>
+    <string name="amount_prKG">प्रति KG राशि (₹ में)</string>
+    <string name="enter_product_name_quality">उत्पाद का नाम / गुणवत्ता दर्ज करें</string>
+    <string name="amount">राशि</string>
+    <string name="default_notification_channel_id">1234</string>
+    <string name="channel_name">Android</string>
+
+    <string name="welcome">स्वागत हे</string>
+    <string name="enter_mobile_number">मोबाइल नंबर लिखो</string>
+    <string name="few_more_steps">कुछ और कदम</string>
+    <string name="enter_otp">कृपया ओ टी पी लिखें</string>
+    <string name="resend_otp">ओ टी पी फिर से भेजो</string>
+    <string name="entered_mobile_number">दिया गया मोबाइल नंबर</string>
+    <string name="almost_there">लगभग वहाँ पहुँच गया</string>
+    <string name="register">रजिस्टर करें</string>
+    <string name="enter_name">नाम</string>
+    <string name="enter_email">ईमेल</string>
+
+    <string name="home">घर</string>
+    <string name="route">मार्ग</string>
+    <string name="sales">बिक्री</string>
+    <string name="create_new_group">एक नया समूह बनाएं</string>
+
+    <string name="name">नाम</string>
+    <string name="email">ईमेल</string>
+    <string name="address">पता</string>
+    <string name="due_amount">देय राशि</string>
+    <string name="date">तारीख</string>
+    <string name="time">समय</string>
+
+    <string name="milk_sold_litres">दूध बेचा (मात्रा)</string>
+    <string name="milk_sold_rs">दूध बेचा (₹)</string>
+    <string name="orders">आदेश</string>
+    <string name="recent_order">हाल के आदेश</string>
+    <string name="product_list">उत्पाद सूची</string>
+    <string name="connect_with">ग्राहक या जोड़ने के लिए QR स्कैन करें अथवा मोबाइल नंबर का उपयोग करके कनेक्ट करें मोबाइल नंबर दर्ज करें</string>
+    <string name="connect">जुडिये</string>
+    <string name="enter_group_priority">समूह प्राथमिकता दर्ज करें</string>
+    <string name="enter_group_name">समूह का नाम दर्ज करें</string>
+
+    <string name="notification">सूचनाएं</string>
+    <string name="language">भाषा</string>
+    <string name="logout">लॉग आउट</string>
+    <string name="details">विवरण</string>
+    <string name="edit_order">आदेश संपादित करें</string>
+    <string name="order_details">ऑर्डर का विवरण</string>
+    <string name="customer_list">ग्राहकों का विवरण</string>
+    <string name="customer_details">ग्राहक विस्तार</string>
+
+    <string name="select_products">उत्पादों का चयन करें</string>
+    <string name="add_to_group">समूह में जोड़ें</string>
+    <string name="no_notification">कोई सूचना नहीं मिली</string>
+    <string name="no_added_order">कोई जोड़ा गया आदेश नहीं</string>
+    <string name="disconnect">डिस्कनेक्ट</string>
+    <string name="no_added_group">कोई जोड़ा गया समूह नहीं, ग्राहक जोड़ें</string>
+    <string name="no_recent_order">हाल का कोई आदेश नहीं</string>
+    <string name="no_product_added">कोई उत्पाद नहीं जोड़ा गया</string>
+    <string name="select_language">भाषा का चयन करें :</string>
+    <string name="client">ग्राहक</string>
+
+    <string name="enter_address1">पते की पहली पंक्ति</string>
+    <string name="enter_address2">पते की दूसरी पंक्ति / वैकल्पिक</string>
+    <string name="enter_address3">पते की तीसरी पंक्ति / वैकल्पिक</string>
+    <string name="city">शहर</string>
+    <string name="enter_city">शहर का नाम दर्ज करें</string>
+    <string name="client_details">ग्राहक का विवरण</string>
+    <string name="save_proceed">सहेजें और आगे बढ़ें</string>
+    <string name="add_order">आदेश जोड़ें</string>
+    <string name="select_month_year">महीना और वर्ष चुनें</string>
+    <string name="export_as">के रूप में निर्यात करें</string>
+
+    <string name="invaild_mobile_no">अवैध फोन नंबर!</string>
+    <string name="client_already_connected">क्लाइंट पहले से कनेक्ट है</string>
+    <string name="adding_new_clients">नया ग्राहक जोड़ना</string>
+    <string name="group_already_exist">समूह पहले से मौजूद है</string>
+    <string name="saving_group">समूह सहेजा जा रहा है</string>
+    <string name="group_no_cannot_zero">समूह प्राथमिकता संख्या शून्य नहीं हो सकती</string>
+    <string name="select_alleast_one_product">कम से कम एक उत्पाद का चयन करें</string>
+    <string name="saving_client">सेविंग क्लाइंट</string>
+    <string name="are_you_sure_to_disconnect">क्या आप डिस्कनेक्ट करने के लिए सुनिश्चित हैं?</string>
+
+    <string name="first_add_today_req">पहले आज की आवश्यकता जोड़ें</string>
+    <string name="complete_order_details">आगे बढ़ने के लिए पूरा विवरण करें</string>
+    <string name="make_a_group">एक नया समूह बनाएं</string>
+    <string name="disconnecting">डिस्कनेक्ट</string>
+    <string name="client_deleted_successfully">क्लाइंट को सफलतापूर्वक हटा दिया गया</string>
+    <string name="group_changed_to">ग्रुप बदलकर यह हो गया</string>
+
+
+    <string name="are_you_sure_to_logout">क्या आप लॉगआउट करना सुनिश्चित करते हैं?</string>
+    <string name="select_product_create_usual_order">उत्पादों का चयन करें और क्लाइंट के लिए एक सामान्य आदेश बनाएं</string>
+
+
+    <string name="add_client">क्लाइंट जोड़ें</string>
+    <string name="add_client_desc">यहां से आप ग्राहक जोड़ सकते हैं</string>
+    <string name="menu">मेन्यू</string>
+    <string name="menu_desc">यहां से आप अपनी प्रोफ़ाइल और अन्य ऐप सेटिंग प्रबंधित कर सकते हैं</string>
+    <string name="notification_desc">यहां से आप ग्राहकों द्वारा उठाए गए सभी प्रश्नों का प्रबंधन कर सकते हैं</string>
+
+    <string name="stats_intro">वास्तविक समय में गहराई से आँकड़े</string>
+    <string name="stats_intro_desc">वास्तविक समय में बिक्री के आँकड़े और गहराई से विश्लेषण देखें</string>
+
+    <string name="group_intro">कस्टमाइज़ रूट</string>
+    <string name="group_name">समूह का नाम</string>
+    <string name="group_intro_desc">रूट जोड़ें और अपने वितरण वरीयता के अनुसार उन्हें अनुकूलित करें</string>
+
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10sp"
+    android:padding="5sp"
+    android:background="@drawable/rounded_rectangle">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <Button
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_margin="10sp"
+            android:background="@drawable/rounded_rect_grey"
+            android:id="@+id/button_view"
+            android:layout_centerVertical="true"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Product Name"
+            android:textColor="#000"
+            android:layout_centerVertical="true"
+            android:textSize="18sp"
+            android:layout_toEndOf="@+id/button_view"
+            android:id="@+id/product_name"
+            android:layout_margin="10sp"
+            />
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:layout_toStartOf="@+id/add"
+            android:textColor="#2B61CD"
+            android:layout_margin="10sp"
+            android:layout_centerVertical="true"
+            android:inputType="number"
+            android:textSize="20sp"
+            android:id="@+id/quantity"
+            android:visibility="invisible"
+            />
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:src="@drawable/ic_add"
+            android:background="@drawable/circle"
+            android:padding="8sp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_margin="10sp"
+            android:id="@+id/add"
+            android:tag="add"
+            />
+
+    </RelativeLayout>
+
+
+
+
+</RelativeLayout>

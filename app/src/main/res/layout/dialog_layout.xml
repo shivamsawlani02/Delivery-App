@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20sp"
+    android:orientation="vertical">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Group Name"
+        android:layout_margin="10sp"
+        android:textSize="20sp"
+        android:padding="10sp"
+        android:id="@+id/ed_new_group"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Group priority"
+        android:layout_margin="10sp"
+        android:textSize="20sp"
+        android:padding="10sp"
+        android:id="@+id/ed_priority"
+        android:inputType="number"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="2">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Cancel"
+            android:textSize="20sp"
+            android:layout_margin="5sp"
+            android:padding="10sp"
+            android:id="@+id/btnl_cancel"
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Save"
+            android:textSize="20sp"
+            android:padding="10sp"
+            android:layout_margin="5sp"
+            android:id="@+id/save_btnl"
+            />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">DS Milkmen</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+
+    <string name="milk_left">Milk Left (in L)</string>
+    <string name="Dairy_System">Dairy System</string>
+    <string name="no_order_left">No More Orders for Today</string>
+    <string name="start_delivery">Start Delivery</string>
+    <string name="open_profile">Open Profile Tab</string>
+
+    <string name="phone_number">PHONE NUMBER</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="continue_btn">Continue</string>
+    <string name="clients_connected">CLIENTS CONNECTED</string>
+    <string name="product_available">Products Available:</string>
+    <string name="edit">Edit</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="add_new_product">Add new Product</string>
+
+    <string name="product_name">PRODUCT NAME</string>
+    <string name="price">PRICE</string>
+    <string name="add_product_details">Add Product Details</string>
+
+    <string name="delete">Delete</string>
+    <string name="next_client">Next Client :</string>
+
+    <string name="milk_quality">Quality :</string>
+    <string name="milk_quantity">Quantity :</string>
+    <string name="cancel_order">Cancel Order</string>
+    <string name="delivered">Delivered</string>
+    <string name="order_amount">Order Amount : ₹ </string>
+
+    <string name="edit_product_details">Edit Product Details</string>
+    <string name="fill_daily_requirement">Fill Daily Requirements: </string>
+
+    <string name="enter_all_quantities_to_proceed">Enter All the Quantities to start</string>
+    <string name="no_orders_found">No Orders found, Please enter Order to Delivered</string>
+    <string name="order_canceled">Order Canceled</string>
+    <string name="order_delivered">Order Delivered</string>
+    <string name="updating_please_wait">Updating... Please wait</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="are_you_sure_to_cancel_order">Are you sure to cancel this order?</string>
+    <string name="please_complete_the_order_to_proceed">Please Add or Complete the Order to Proceed</string>
+    <string name="order_has_been_placee">Order has been Placed...</string>
+    <string name="are_you_sure_to_delete">Are you sure to delete?</string>
+    <string name="out_of_stock"> is now out of stock.</string>
+    <string name="changes_saved">Changes saved</string>
+    <string name="product_deleted">Product Deleted</string>
+
+    <string name="please_fill_all_the_details">Please Enter All the Fields!</string>
+    <string name="product_added">Product Added</string>
+    <string name="product_name_quality">Product Name/Quality</string>
+    <string name="amount_prKG">Amount pr KG (in ₹)</string>
+    <string name="enter_product_name_quality">Enter Product Name/Quality</string>
+    <string name="amount">Amount</string>
+    <string name="default_notification_channel_id">1234</string>
+    <string name="channel_name">Android</string>
+
+    <string name="welcome">WELCOME</string>
+    <string name="enter_mobile_number">ENTER MOBILE NUMBER</string>
+    <string name="few_more_steps">Few more steps</string>
+    <string name="enter_otp">ENTER OTP</string>
+    <string name="resend_otp">Resend the code again in </string>
+    <string name="entered_mobile_number">ENTERED MOBILE NUMBER</string>
+    <string name="almost_there">Almost there.</string>
+    <string name="register">REGISTER</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_email">Enter E-mail /optional</string>
+
+    <string name="home">Home</string>
+    <string name="route">Route</string>
+    <string name="sales">Sales</string>
+
+    <string name="create_new_group">Create a new group</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="due_amount">Due Amount</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="milk_sold_litres">Milk Sold (litres)</string>
+    <string name="milk_sold_rs">Milk Sold (Rs)</string>
+    <string name="orders">Orders</string>
+    <string name="recent_order">Recent Orders</string>
+    <string name="product_list">Product List</string>
+    <string name="connect_with">Or connect using mobile number</string>
+    <string name="connect">Connect</string>
+    <string name="enter_group_priority">Enter Group priority</string>
+    <string name="enter_group_name">Enter Group name</string>
+
+    <string name="notification">Notifications</string>
+    <string name="language">Language</string>
+    <string name="logout">Logout</string>
+    <string name="details">Details</string>
+    <string name="edit_order">Edit Order</string>
+    <string name="order_details">Order Details</string>
+    <string name="customer_list">Customer List</string>
+    <string name="customer_details">Customer Detail</string>
+
+    <string name="select_products">Select Products</string>
+    <string name="add_to_group">Add to group</string>
+    <string name="no_notification">No Notification found</string>
+    <string name="no_added_order">No Added Order</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="no_recent_order">No Recent Order</string>
+    <string name="no_added_group">No Added Groups, Add Clients</string>
+    <string name="no_product_added">No Product Added</string>
+    <string name="select_language">Select Language :</string>
+    <string name="client">Client</string>
+    <string name="enter_address1">Address first line</string>
+    <string name="enter_address2">Address second line / Optional</string>
+    <string name="enter_address3">Address third line / Optional</string>
+    <string name="enter_city">Enter City Name</string>
+    <string name="city">City</string>
+    <string name="client_details">Client Details</string>
+
+    <string name="save_proceed">Save &amp; Proceed</string>
+    <string name="add_order">Add Order</string>
+    <string name="select_month_year">Select Month &amp; Year</string>
+    <string name="export_as">Export As</string>
+
+    <string name="invaild_mobile_no">Invalid Phone Number!</string>
+    <string name="client_already_connected">Client already connected</string>
+    <string name="adding_new_clients">Adding New Client</string>
+    <string name="group_already_exist">Group already exists</string>
+    <string name="saving_group">Saving Group</string>
+    <string name="group_no_cannot_zero">Group priority number cannot be zero</string>
+    <string name="select_alleast_one_product">Select atleast one product</string>
+    <string name="saving_client">Saving Client</string>
+    <string name="are_you_sure_to_disconnect">Are you sure to disconnect?</string>
+
+
+    <string name="first_add_today_req">First Add Today Requirement</string>
+    <string name="complete_order_details">Complete Order Details to proceed</string>
+    <string name="make_a_group">Make a new Group</string>
+    <string name="disconnecting">Disconnecting</string>
+    <string name="client_deleted_successfully">Client deleted successfully</string>
+    <string name="group_changed_to">Group changed to </string>
+
+    <string name="are_you_sure_to_logout">Are you sure to logout?</string>
+    <string name="select_product_create_usual_order">Select products and create a usual order for the Client</string>
+
+    <string name="add_client">Add Client</string>
+    <string name="add_client_desc">From Here you can add Clients</string>
+    <string name="menu">Menu</string>
+    <string name="menu_desc">From here you can manage your profile and other app settings</string>
+    <string name="notification_desc">From Here you can manage all the queries raised by Clients</string>
+
+    <string name="stats_intro">Real time in-depth Stats</string>
+    <string name="stats_intro_desc">View stats and in-depth analysis of sales in real time</string>
+
+    <string name="group_intro">Customize Route</string>
+    <string name="group_name">Group Name</string>
+    <string name="group_intro_desc">Add Routes and Customize them according to your Delivery Preference.</string>
+
+</resources>

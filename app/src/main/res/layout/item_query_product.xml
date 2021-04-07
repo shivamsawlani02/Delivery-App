@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10sp"
+    android:padding="10sp"
+    android:background="@drawable/rounded_rectangle">
+
+    <Button
+        android:layout_width="35dp"
+        android:layout_height="40dp"
+        android:backgroundTint="#FAD7D7"
+        android:id="@+id/button_view"
+        android:layout_centerVertical="true"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Product Name"
+        android:layout_toRightOf="@+id/button_view"
+        android:layout_centerVertical="true"
+        android:textColor="#000"
+        android:id="@+id/tv_quality"
+        android:layout_margin="10sp"
+        />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#0099FF"
+        android:id="@+id/ed_quantity"
+        android:inputType="number"
+        android:text="0"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="15sp"
+        android:layout_toLeftOf="@+id/delete"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_baseline_cancel_24"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:id="@+id/delete"
+        />
+
+
+</RelativeLayout>
